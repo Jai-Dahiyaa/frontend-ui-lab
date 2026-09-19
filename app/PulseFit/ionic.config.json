@@ -1,0 +1,7 @@
+{
+  "name": "PulseFit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
